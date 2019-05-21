@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(170, 135, 109), rgb(95, 62, 146));;
+}
+
+h2{
+	font-family: Marvel;
+}
+
+.card{
+	background-color:#9775AA;
 }
 
 code {
