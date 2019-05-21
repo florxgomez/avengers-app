@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/avengers-app/static/css/main.8be5bad4.chunk.css",
+    "main.js": "/avengers-app/static/js/main.c101d127.chunk.js",
+    "main.js.map": "/avengers-app/static/js/main.c101d127.chunk.js.map",
+    "runtime~main.js": "/avengers-app/static/js/runtime~main.5834b226.js",
+    "runtime~main.js.map": "/avengers-app/static/js/runtime~main.5834b226.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/avengers-app/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.2d717d87.chunk.js": "/avengers-app/static/js/2.2d717d87.chunk.js",
+    "static/js/2.2d717d87.chunk.js.map": "/avengers-app/static/js/2.2d717d87.chunk.js.map",
+    "index.html": "/avengers-app/index.html",
+    "precache-manifest.3eb4f7699dac8d5bb13d52b7a411d8de.js": "/avengers-app/precache-manifest.3eb4f7699dac8d5bb13d52b7a411d8de.js",
+    "service-worker.js": "/avengers-app/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/avengers-app/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.8be5bad4.chunk.css.map": "/avengers-app/static/css/main.8be5bad4.chunk.css.map"
+  }
+}
