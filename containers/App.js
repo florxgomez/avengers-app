@@ -3,6 +3,7 @@ import CardList from "../components/CardList";
 import SearchBox from "../components/SearchBox";
 import { images } from "../public/images";
 import { Scroll } from "../components/Scroll";
+import ErrorBoundry from "../components/ErrorBoundry";
 
 class App extends Component {
   constructor() {
@@ -40,7 +41,9 @@ class App extends Component {
         />
         <SearchBox searchChange={this.onSearchChange} />
         <Scroll>
-          <CardList images={filteredAvengers} />
+          <ErrorBoundry>
+            <CardList images={filteredAvengers} />
+          </ErrorBoundry>
         </Scroll>
       </div>
     );
